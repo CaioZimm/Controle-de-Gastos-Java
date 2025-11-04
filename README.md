@@ -128,14 +128,5 @@ e que o `pom.xml` possua a seguinte configuração:
 
 ---
 
-## 👨‍💻 Autor
-
-**Caio Claudino**  
-Estudante de **Análise e Desenvolvimento de Sistemas - FEMA**  
-💻 Desenvolvedor Full Stack em formação  
-🌐 GitHub: [github.com/CaioClaudino](https://github.com/CaioClaudino)
-
----
-
 ## 📜 Licença
 Este projeto é de uso acadêmico e livre para estudos e melhorias.
