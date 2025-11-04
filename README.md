@@ -1,5 +1,4 @@
-# 🚀 Controle de Gastos — Caio Claudino  
-**Versão 2.1**
+# 🚀 Controle de Gastos
 
 Bem-vindo ao guia de desenvolvimento da aplicação **Controle de Gastos**, criada por **Caio Claudino**.  
 Este projeto tem como objetivo aplicar conceitos de **Desenvolvimento Full Stack**, utilizando **Spring Boot** no backend e **HTMX + Thymeleaf** no frontend.
